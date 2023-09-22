@@ -10,14 +10,14 @@
     {
         "id": 2,
         "name": "River Sing Me Home",
-        "price": 220,
+        "price": 22,
         "image": "images/2.webp",
         "author": "Eleanor Shearer"
     },
     {
         "id": 3,
         "name": "Gods of Want",
-        "price": 250,
+        "price": 25,
         "image": "images/3.webp",
         "author": "K-Ming Chang"
     }
@@ -25,42 +25,42 @@
     {
         "id": 4,
         "name": "The Vanishing Half",
-        "price": 420,
+        "price": 42,
         "image": "images/4.webp",
         "author": "Brit Bennett"
     },
     {
         "id": 5,
         "name": "City of Orange",
-        "price": 120,
+        "price": 12,
         "image": "images/5.webp",
         "author": "David Yoon"
     },
     {
         "id": 6,
         "name": "The Performance",
-        "price": 120,
+        "price": 10,
         "image": "images/6.webp",
         "author": "Claire Thomas"
     },
     {
         "id": 7,
         "name": "Latitudes of Longing",
-        "price": 120,
+        "price": 8,
         "image": "images/7.webp",
         "author": "Claire Thomas"
     },
     {
         "id": 8,
         "name": "Pineapple Street",
-        "price": 120,
+        "price": 20,
         "image": "images/8.webp",
         "author": "Claire Thomas"
     },
     {
         "id": 9,
         "name": "Dog Flowers",
-        "price": 120,
+        "price": 21,
         "image": "images/9.webp",
         "author": "Danielle Geller"
     }
